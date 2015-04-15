@@ -1,6 +1,6 @@
 ## name the color in image, map every RGB value to a 11 specified  color types
 
-type -- color
+type -- color  
  0   -> black  
  1   -> blue  
  2   -> brown  
