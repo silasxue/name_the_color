@@ -31,4 +31,4 @@ This is the work from Joost van de Weijer, from
 > Learning Color Names from Real-World Images  
 
 And this project is just a simple opencv interface
-Please visit their [site](http://lear.inrialpes.fr/people/vandeweijer/color_names.html)
+    Please visit their [site](http://lear.inrialpes.fr/people/vandeweijer/color_names.html)
